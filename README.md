@@ -1,3 +1,4 @@
+# WhatsApp - Web - Clone 
 This project is a WhatsApp Web application built to gain experience in full-stack development for messaging platforms. It leverages React for the frontend, Node.js and Express for the backend, and MongoDB as the NoSQL database.
 
 Features:
